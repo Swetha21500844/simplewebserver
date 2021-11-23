@@ -42,7 +42,9 @@ httpd = HTTPServer(server_address,myhandler)
 print("my webserver is running...")
 httpd.serve_forever()
 
-## OUTPUT:
+## OUTPUT:![output1](https://user-images.githubusercontent.com/94228215/143049038-dfbc69ba-6d1f-4236-aa99-9f095e659b5c.PNG)
+![ouput2](https://user-images.githubusercontent.com/94228215/143049081-3c22b128-4798-4573-ab21-40c0374158cd.PNG)
+
 
 
 ## RESULT:Simple webserver is developed to display top five language
